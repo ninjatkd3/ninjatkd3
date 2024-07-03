@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ninjatkd3
+- 👀 I’m interested in coding and modeling
+- 🌱 I’m currently learning how to code python and javascript
+- 📫 How to reach me: DM me on discord @ninjatkd321
